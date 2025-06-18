@@ -6,25 +6,17 @@
 - 长按地块删除
 - 镂空地块的绘制与操作（编辑、分割、合并、删除）
   
+  ![图片描述](https://github.com/yalongG/mapbox_demo/blob/main/1750212740814.jpg)
+  
+  ![图片描述](https://github.com/yalongG/mapbox_demo/blob/main/1750212793561.jpg)
+  ![图片描述](https://github.com/yalongG/mapbox_demo/blob/main/1750212823134.jpg)
+  ![图片描述](https://github.com/yalongG/mapbox_demo/blob/main/1750212858447.jpg)
+  ![图片描述](https://github.com/yalongG/mapbox_demo/blob/main/1750212890313.jpg)
+  ![图片描述](https://github.com/yalongG/mapbox_demo/blob/main/1750212924245.jpg)
+  ![图片描述](https://github.com/yalongG/mapbox_demo/blob/main/1750212964878.jpg)
+  ![图片描述](https://github.com/yalongG/mapbox_demo/blob/main/1750213001659.jpg)
   
   
-  ![1750212740814.jpg](https://github.com/yalongG/mapbox_demo/blob/main/1750212740814.jpg)
-  
-  
-  
-  ![1750212793561.jpg](/Users/guoyalong/demo/mapbox_demo/1750212793561.jpg)
-  
-  ![1750212823134.jpg](/Users/guoyalong/demo/mapbox_demo/1750212823134.jpg)
-  
-  ![1750212858447.jpg](/Users/guoyalong/demo/mapbox_demo/1750212858447.jpg)
-  
-  ![1750212890313.jpg](/Users/guoyalong/demo/mapbox_demo/1750212890313.jpg)
-  
-  ![1750212924245.jpg](/Users/guoyalong/demo/mapbox_demo/1750212924245.jpg)
-  
-  ![1750212964878.jpg](/Users/guoyalong/demo/mapbox_demo/1750212964878.jpg)
-  
-  ![1750213001659.jpg](/Users/guoyalong/demo/mapbox_demo/1750213001659.jpg)
   
   可以下载 20250618083014.mp4 文件，查看具体效果。
 
