@@ -8,7 +8,7 @@
   
   
   
-  ![1750212740814.jpg](/Users/guoyalong/demo/mapbox_demo/1750212740814.jpg)
+  ![1750212740814.jpg](https://github.com/yalongG/mapbox_demo/blob/main/1750212740814.jpg)
   
   
   
@@ -25,8 +25,6 @@
   ![1750212964878.jpg](/Users/guoyalong/demo/mapbox_demo/1750212964878.jpg)
   
   ![1750213001659.jpg](/Users/guoyalong/demo/mapbox_demo/1750213001659.jpg)
-  
-  
   
   可以下载 20250618083014.mp4 文件，查看具体效果。
 
