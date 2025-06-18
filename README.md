@@ -13,10 +13,8 @@
   ![图片描述](https://github.com/yalongG/mapbox_demo/blob/main/1750212858447.jpg)
   ![图片描述](https://github.com/yalongG/mapbox_demo/blob/main/1750212890313.jpg)
   ![图片描述](https://github.com/yalongG/mapbox_demo/blob/main/1750212924245.jpg)
-  ![图片描述](https://github.com/yalongG/mapbox_demo/blob/main/1750212964878.jpg)
-  ![图片描述](https://github.com/yalongG/mapbox_demo/blob/main/1750213001659.jpg)
-  
-  
+  <img src="https://github.com/yalongG/mapbox_demo/blob/main/1750212964878.jpg" alt="图片描述" width="50%">
+  <img src="https://github.com/yalongG/mapbox_demo/blob/main/1750213001659.jpg" alt="图片描述" width="50%">
   
   可以下载 20250618083014.mp4 文件，查看具体效果。
 
