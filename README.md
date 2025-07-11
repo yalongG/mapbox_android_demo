@@ -9,7 +9,7 @@
 - 镂空地块的绘制与操作（编辑、分割、合并、删除）
   
 - 卷帘效果
-  
+  想要查勘卷帘效果，可以查看 卷帘效果.gif 文件。
   ![](https://github.com/yalongG/mapbox_demo/blob/main/卷帘效果.gif)
   
   ![图片描述](https://github.com/yalongG/mapbox_demo/blob/main/1750212740814.jpg)
